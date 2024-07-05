@@ -1,1 +1,1 @@
-PoC of apache-log4j-rce
+PoC of JDBC vuls.
